@@ -34,4 +34,9 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
