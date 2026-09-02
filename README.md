@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
