@@ -40,12 +40,14 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
