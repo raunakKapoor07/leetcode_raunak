@@ -10,6 +10,7 @@
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
