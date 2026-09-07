@@ -51,6 +51,7 @@
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3932-count-k-th-roots-in-a-range](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3932-count-k-th-roots-in-a-range) |
 <!---LeetCode Topics End-->
