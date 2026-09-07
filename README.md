@@ -60,6 +60,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
+| [3931-check-adjacent-digit-differences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
