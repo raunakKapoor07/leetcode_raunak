@@ -20,9 +20,9 @@ public:
     //   cout<<area<<" ";
     //   cout<<h;
       ans.push_back((asin(h/(double)sides[0])*180)/M_PI);
-      cout<<ans[0]<<" ";
+    //   cout<<ans[0]<<" ";
       ans.push_back((asin(h/(double)sides[1])*180)/M_PI);
-      cout<<ans[1]<<" ";
+    //   cout<<ans[1]<<" ";
     ans.push_back((180.0-ans[0]-ans[1]));
     sort(ans.begin(),ans.end());
     return ans;
