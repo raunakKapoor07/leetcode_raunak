@@ -2,10 +2,10 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
         int prefix=0;
-        int len=0;
         int maxlen=0;
         int n=nums.size();
         unordered_map<int,int> hash;
+        hash[0]=-1;
         for(int i=0;i<n;i++){
             if(nums[i]==0){
                 prefix--;
@@ -14,14 +14,8 @@ public:
             if(!hash.count(prefix)){
                 hash[prefix]=i;
             }
-            len++;
-            if(prefix==0){
-                maxlen=max(len,maxlen);
-            }
-            else{
-                if(hash[prefix]!=i){
-                    maxlen=max(maxlen,i-hash[prefix]);
-                }
+            if(hash[prefix]!=i){
+                maxlen=max(maxlen,i-hash[prefix]);
             }
         }
         return maxlen;
