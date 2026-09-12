@@ -11,8 +11,6 @@ public:
         int ans=0;
         for(int i=0;i<32;i++){
             binary[i]=binary[i]%3;
-        }
-        for(int i=0;i<32;i++){
             ans+=binary[i]*(1<<i);
         }
         return ans;
