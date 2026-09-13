@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
+| [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -41,6 +42,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
