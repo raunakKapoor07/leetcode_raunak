@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -79,6 +80,7 @@
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3931-check-adjacent-digit-differences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
@@ -152,9 +154,11 @@
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
