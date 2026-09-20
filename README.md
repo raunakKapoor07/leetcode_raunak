@@ -81,6 +81,7 @@
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3498-reverse-degree-of-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
@@ -161,4 +162,8 @@
 | ------- |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
