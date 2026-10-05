@@ -89,6 +89,7 @@
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
