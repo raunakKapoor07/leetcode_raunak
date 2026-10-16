@@ -16,6 +16,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3524-find-x-value-of-array-i) |
@@ -35,6 +36,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3525-find-x-value-of-array-ii) |
 ## Stack
 |  |
@@ -222,4 +225,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
