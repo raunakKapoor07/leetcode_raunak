@@ -15,6 +15,7 @@
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -165,6 +166,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Tree
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
