@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
