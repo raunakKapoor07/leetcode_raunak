@@ -21,6 +21,7 @@
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -126,6 +127,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
