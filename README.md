@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
@@ -267,6 +268,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -284,4 +286,16 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
