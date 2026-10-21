@@ -90,6 +90,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
