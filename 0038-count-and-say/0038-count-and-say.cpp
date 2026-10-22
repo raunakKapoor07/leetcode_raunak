@@ -11,16 +11,18 @@ public:
         for(int i=2;i<n;i++){
             int len=ans.size();
             string temp="";
+            int count=1;
             for(int j=0;j<len;j++){
-                int count=1;
                 string c;
-                while(ans[j]==ans[j+1] && j<len){
+                 if(ans[j]==ans[j+1]){
                     count++;
-                    j++;
                 }
+                else{
                 c=to_string(count);
                 temp+=c;
                 temp+=ans[j];
+                count=1;
+                }
             }
             ans=temp;
         }
