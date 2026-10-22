@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0137-single-number-ii) |
@@ -146,6 +147,7 @@
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
