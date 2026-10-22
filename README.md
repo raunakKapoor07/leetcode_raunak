@@ -116,6 +116,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0301-remove-invalid-parentheses) |
