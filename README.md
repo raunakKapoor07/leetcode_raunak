@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
@@ -110,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0344-reverse-string) |
 ## String
