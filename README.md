@@ -38,6 +38,7 @@
 | [3899-angles-of-a-triangle](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
