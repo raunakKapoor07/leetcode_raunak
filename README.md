@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0135-candy) |
@@ -73,6 +74,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
@@ -122,6 +124,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0131-palindrome-partitioning) |
@@ -168,6 +171,7 @@
 | [0039-combination-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0216-combination-sum-iii) |
@@ -215,6 +219,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
