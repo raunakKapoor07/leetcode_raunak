@@ -10,7 +10,7 @@ public:
         if(nums[r]==0){
             count0++;
         }
-        while(count0>k){
+        if(count0>k){
             if(nums[l]==0){
                 count0--;
             }
