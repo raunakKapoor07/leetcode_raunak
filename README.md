@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
@@ -176,6 +177,7 @@
 | [0022-generate-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0090-subsets-ii) |
@@ -333,4 +335,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
