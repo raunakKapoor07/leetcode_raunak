@@ -24,6 +24,7 @@
 | [0435-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
+| [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -53,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
+| [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Algorithm X
