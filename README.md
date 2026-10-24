@@ -110,6 +110,7 @@
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -149,6 +150,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3931-check-adjacent-digit-differences) |
