@@ -157,6 +157,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3931-check-adjacent-digit-differences) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -352,4 +354,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0051-n-queens) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
