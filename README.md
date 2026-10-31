@@ -41,6 +41,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3886-sum-of-sortable-integers) |
@@ -87,6 +88,7 @@
 | [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3665-twisted-mirror-path-count) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
