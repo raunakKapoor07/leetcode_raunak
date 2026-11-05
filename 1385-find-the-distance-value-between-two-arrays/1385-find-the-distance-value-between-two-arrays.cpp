@@ -10,6 +10,7 @@ public:
                 if(abs(arr1[i]-arr2[j])>d){
                     count++;
                 }
+                else break;
             }
             if(count==m){
                 ans++;
