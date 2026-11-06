@@ -23,6 +23,7 @@
 | [0260-single-number-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@
 | [0001-two-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -310,6 +312,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -378,4 +381,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
