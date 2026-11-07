@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
@@ -102,6 +103,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
