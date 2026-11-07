@@ -156,6 +156,7 @@
 | [0131-palindrome-partitioning](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -314,6 +316,7 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0856-score-of-parentheses) |
@@ -386,5 +389,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
