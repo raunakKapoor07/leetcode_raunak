@@ -28,6 +28,7 @@
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -89,12 +90,14 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3665-twisted-mirror-path-count) |
 ## Linked List
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -340,6 +344,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -391,4 +396,8 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
