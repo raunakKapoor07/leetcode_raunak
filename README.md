@@ -41,6 +41,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3524-find-x-value-of-array-i) |
@@ -245,6 +246,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -387,6 +389,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3364-minimum-positive-sum-subarray) |
 ## Algorithm X
 |  |
 | ------- |
