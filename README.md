@@ -177,6 +177,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3863-minimum-operations-to-sort-a-string) |
