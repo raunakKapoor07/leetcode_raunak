@@ -36,6 +36,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -298,6 +299,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3886-sum-of-sortable-integers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3886-sum-of-sortable-integers) |
@@ -312,6 +314,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
