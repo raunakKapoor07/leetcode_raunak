@@ -29,6 +29,7 @@
 | [0904-fruit-into-baskets](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
 | [1267-count-servers-that-communicate](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -132,6 +133,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2409-count-days-spent-together) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3364-minimum-positive-sum-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3364-minimum-positive-sum-subarray) |
@@ -435,4 +438,12 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
