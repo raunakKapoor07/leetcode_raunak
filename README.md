@@ -59,6 +59,7 @@
 | [3899-angles-of-a-triangle](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -420,4 +423,16 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
