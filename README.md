@@ -62,6 +62,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/raunakKapoor07/leetcode_raunak/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
